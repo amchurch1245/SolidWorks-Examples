@@ -1,0 +1,4 @@
+Solidworks Lab
+
+Purpose: to get familiar with Solidworks. Created a items, reviewed safety of
+items, stress tests, etc. 
